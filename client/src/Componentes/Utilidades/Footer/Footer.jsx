@@ -7,7 +7,7 @@ const Footer = () => {
 	return (
 		<div className="contenedor-footer no-select">
 			<div className="footer">
-				<Link to="/" className="logo-footer">La Esquina</Link>
+				<Link to="/" className="logo-footer">Gut Mann</Link>
 				<nav className="navegacion-footer">
 					<Link to="/">Página Principal</Link>
 					<Link to="/tienda">Tienda Virtual</Link>
@@ -20,7 +20,7 @@ const Footer = () => {
 				</div>
 			</div>
 			<div className="copyright">
-			<a target="_blank" rel="noreferrer" href="https://github.com/AugustoNicola/Proyecto-LaEsquina"><p>Copyright &copy; 2021 Augusto Nicola <i className="fab fa-github"></i></p></a>
+			<a target="_blank" rel="noreferrer" href="https://github.com/AugustoNicola/Proyecto-LaEsquina"><p>Copyright &copy; 2023 ADSO 2502639 <i className="fab fa-github"></i></p></a>
 			</div>
 		</div>
 	)

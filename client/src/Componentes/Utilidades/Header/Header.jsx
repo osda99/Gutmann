@@ -35,7 +35,7 @@ const Header = () => {
 	
 	return (
 		<div className="header no-select">
-			<Link to="/tienda" className="logo-header">La Esquina</Link>
+			<Link to="/tienda" className="logo-header">Gut Mann</Link>
 
 			{estado.usuarioAPI.sesionIniciada[0] ? accionesConSesion() : accionesSinSesion()}
 		</div>
