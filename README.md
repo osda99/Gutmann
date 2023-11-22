@@ -1,8 +1,6 @@
 ![Panadería Gut Mann](Logo.png)
 ### *Proyecto de tienda virtual de una panadería de barrio hecha con el stack MERN*
 
-### **Versión en línea: https://panaderia-la-esquina.herokuapp.com/**
-
 ![Screenshot](screenshot.png)
 
 <br>
