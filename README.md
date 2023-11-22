@@ -1,4 +1,4 @@
-![Panadería La Esquina](Logo.png)
+![Panadería Gut Mann](Logo.png)
 ### *Proyecto de tienda virtual de una panadería de barrio hecha con el stack MERN*
 
 ### **Versión en línea: https://panaderia-la-esquina.herokuapp.com/**
@@ -22,8 +22,8 @@ Para poder configurar el entorno de desarrollo de la aplicación localmente, seg
 
 1. **Clonar el repositorio y moverse a la carpeta de destino**
 	
-		$ git clone https://github.com/AugustoNicola/Panaderia-La-Esquina
-		$ cd Panaderia-La-Esquina/
+		$ git clone https://github.com/osda99/Gutmann
+		$ cd Gutmann/
 	
 2. **Instalar las dependencias necesarias**
 		
@@ -57,5 +57,3 @@ Para poder configurar el entorno de desarrollo de la aplicación localmente, seg
 Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/). **¡Podés leer, usar o modificar el código que necesites!**
 
 Cualquier aporte de código, notificación de errores o fallas, sugerencias o cualquier otro tipo de contribución será enormemente agradecida. 
-
-¡Espero que te haya gustado mi trabajo! :+1:
