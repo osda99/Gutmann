@@ -1,7 +1,5 @@
-![Panadería Gut Mann](Logo.png)
-### *Proyecto de tienda virtual de una panadería de barrio hecha con el stack MERN*
 
-![Screenshot](screenshot.png)
+### *Proyecto de tienda virtual de una panadería de barrio hecha con el stack MERN*
 
 <br>
 
