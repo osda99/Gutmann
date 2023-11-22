@@ -1,7 +1,7 @@
-![La Esquina Bakery](Logo-EN.png)
+![Gut Mann](Logo.png)
 ### *Project of an e-commerce site for a *(fictional)* local bakery, made with the MERN stack*
 
-### **Live demo: https://panaderia-la-esquina.herokuapp.com/**
+
 
 ![Screenshot](screenshot.png)
 
