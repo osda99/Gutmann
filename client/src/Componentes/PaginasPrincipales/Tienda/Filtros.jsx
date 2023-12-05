@@ -24,7 +24,7 @@ const Filtros = () => {
 	}
 	return (
 		<div className="filtros" data-transicion style={{animationDelay: "0.3s"}}>
-			<input type="text" name="busqueda" id="busqueda" placeholder="¡Escribí lo que querés!" value={busqueda} onChange={cambioBusqueda}/>
+			<input type="text" name="busqueda" id="busqueda" placeholder="¡Escribí lo que quirés!" value={busqueda} onChange={cambioBusqueda}/>
 			<div className="selector-filtros">
 				<select name="categoria" id="categoria" value={categoria ? categoria : ""} onChange={cambioCategoria}>
 					<option value="">Todo</option>

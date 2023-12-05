@@ -72,7 +72,7 @@ const Producto = () => {
 		<MensajeInfo tipo={"error"} mensaje={mensajeError} /> 
 		<main className="producto-seleccionado seccion">
 			<div className="imagen-producto" data-transicion style={{animationDelay: "0.2s"}}>
-				<img src={`/imagenes/productos/${productoSeleccionado.imagenProducto}`} alt={productoSeleccionado.nombre} className="no-select" />
+				<img src={`imagenes/productos/${productoSeleccionado.imagenProducto}`} alt={productoSeleccionado.nombre} className="no-select" />
 			</div>
 
 			<div className="informacion-producto" data-transicion style={{animationDelay: "0.4s"}}>

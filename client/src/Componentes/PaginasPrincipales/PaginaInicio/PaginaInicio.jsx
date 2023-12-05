@@ -33,6 +33,9 @@ const PaginaInicio = () => {
 
 		<div className="seccion nuestros-productos">
 			<h2 data-transicion style={{animationDelay: "0s"}}>Nuestros Productos</h2>
+			
+			
+			
 			<div className="categorias-productos" data-transicion style={{animationDelay: "0.3s"}}>
 				{
 					categorias.map(categoria => {
