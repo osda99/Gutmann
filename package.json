@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-la-esquina",
+  "name": "proyecto-gutmann",
   "version": "0.1.0",
   "description": "Proyecto de plataforma de tienda online con MERN stack",
   "main": "server.js",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AugustoNicola/Proyecto-LaEsquina.git"
+    "url": "git+https://github.com/osda99/Gutmann"
   },
   "keywords": [
     "mern",
@@ -46,11 +46,11 @@
     "nodejs",
     "node-js"
   ],
-  "author": "Augusto Nicola",
+  "author": "Oscar Osorio-Julian Salazar-Miguel Gamba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AugustoNicola/Proyecto-LaEsquina/issues",
-    "email": "augusp64@gmail.com"
+    "url": "https://github.com/osda99",
+    "email": "osda290999@gmail.com"
   },
-  "homepage": "https://github.com/AugustoNicola/Proyecto-LaEsquina#readme"
+  "homepage": "https://github.com/Osda99"
 }
