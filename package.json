@@ -26,7 +26,7 @@
     "server-install-dependencies": "npm install",
     "client-install-dependencies": "cd client && npm install",
     "install-all-dependencies": "concurrently \"npm run server-install-dependencies\" \"npm run client-install-dependencies\"",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "heroku-postbuild": " n build"
   },
   "nodemonConfig": {
     "ignore": [

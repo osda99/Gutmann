@@ -1,11 +1,11 @@
 :root {
     --bg1: url("https://th.bing.com/th/id/R.cccd7b120bef0f4713ebe122de67b053?rik=y5pXUDnWL8v2aQ&pid=ImgRaw&r=0");
     --bg2: url("https://th.bing.com/th/id/R.11ca27613d21d7a89355d9895597ebe3?rik=BPuLV5ltW5lS1Q&riu=http%3a%2f%2fbaeckereiherte.de%2fwp-content%2fuploads%2f2014%2f11%2fbakery-breads-wallpaper-1920x1080-533ae79fd2ce72.jpg&ehk=VPLIA0gsTkiRICEaWB1cf50nKppT1SmLjR90tVfpWNE%3d&risl=&pid=ImgRaw&r=0");
-    --bg3: url("https://images.unsplash.com/photo-1569959220744-ff553533f492?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg4: url("https://images.unsplash.com/photo-1607585011081-241d2bacb7de?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg5: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg6: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg7: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    --bg3: url("https://cdn.inoutdelivery.com/hornitos.inoutdelivery.com/md/1598550716270-PAN%20UVA%202020.jpg");
+    --bg4: url("https://rezepte.genius.tv/wp-content/uploads/2020/09/zwiebel-Joghurt-Stangen-600x600.jpg");
+    --bg5: url("https://th.bing.com/th/id/R.4e9506b73d891d844a5f603b5d0ee041?rik=f2TXdqlVCohQew&riu=http%3a%2f%2fwww.hornitos.co%2fGrupoProductoImagen%2fgp299%2f2416.jpg%3fn%3d40&ehk=dNhz7i75zqonVgl2eKozyux79mADGkDLVkl1Lesjz2c%3d&risl=&pid=ImgRaw&r=0");
+    --bg6: url("https://www.kff.co.uk/images_products/HD_1941_f1c107d12bdbc0df3792d1d6f2d53e21.jpg");
+    --bg7: url("https://th.bing.com/th/id/OIP.QVeHGFzRFeNyUSkdKwXNFgHaE0?rs=1&pid=ImgDetMain");
     --bg8: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     --bg9: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
@@ -85,7 +85,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto 200%;
+    background-size: auto 130%;
 }
 
 .box-container .box:nth-child(6) {
@@ -101,7 +101,7 @@
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-size: auto 200%;
+    background-size: auto 130%;
 }
 
 .box-container .box:nth-child(8) {
