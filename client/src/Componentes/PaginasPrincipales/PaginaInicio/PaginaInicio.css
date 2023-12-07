@@ -186,7 +186,13 @@
 }
 @media screen and (min-width: 600px) {
 	.contenido-donde-encontrarnos .mapa {
-		width: 85%;
+		width: 75%;
+		opacity: 0.7;
+		border-radius: 10px;
+		border: 2px solid #ddd;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		max-width: 100%;
+		height: auto;
 	}
 }
 
@@ -207,3 +213,4 @@
 	.contenido-donde-encontrarnos .informacion p {font-size: 2.4rem;}
 
 }
+
