@@ -11,6 +11,16 @@
 	justify-content: space-between;
 }
 
+.nuestros-productos{
+	height: 100%;
+	background-image: url("../../../img/Index/panaderia.jpg");
+	background-size: 400px;
+	width: 100px;
+	color: var(--color-blanco);
+
+	flex-flow: column;
+}
+
 .titulo-hero h1 {
 	font-family: var(--fuente-cursiva);
 	font-size: 7.4rem;
@@ -157,6 +167,7 @@
 }
 
 .contenido-donde-encontrarnos .informacion i {
+	display: flex;
 	color: var(--color-primario);
 	font-size: 3.6rem;
 	text-align: center;
@@ -183,7 +194,8 @@
 	background-size: 100% 100%;
 
 	margin: 0 auto;
-}
+} 
+
 @media screen and (min-width: 600px) {
 	.contenido-donde-encontrarnos .mapa {
 		width: 75%;

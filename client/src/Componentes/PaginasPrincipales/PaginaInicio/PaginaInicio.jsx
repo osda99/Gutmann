@@ -2,7 +2,6 @@ import React, { useContext, useState } from 'react';
 import { Redirect } from "react-router";
 import { EstadoGlobal } from "../../../EstadoGlobal";
 import "./carrusel.css"
-
 import "./PaginaInicio.css";
 import Mapa from "../img/mapa.jpg";
 
@@ -139,8 +138,9 @@ const PaginaInicio = () => {
 					<div className="informacion" data-transicion style={{ animationDelay: "0.5s" }}>
 						<i className="far fa-clock"></i>
 						<p>Lunes a Viernes <span>08:00 — 19:30</span></p>
-						<img src={Mapa} alt="Mapa de nuestro local" className="mapa" />
 					</div>
+					<img src={Mapa} alt="Mapa de nuestro local" className="mapa" />
+
 					
 				</div>
 			</div>
