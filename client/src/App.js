@@ -8,7 +8,8 @@ import Header from "./Componentes/Utilidades/Header/Header";
 import Footer from "./Componentes/Utilidades/Footer/Footer";
 import EnrutadorPaginaPrincipal from "./Componentes/PaginasPrincipales/EnrutadorPaginaPrincipal";
 import { ProveedorEstado } from "./EstadoGlobal";
-
+process.env.NODE_OPTIONS = '--openssl-legacy-provider';
+require('dotenv').config();
 
 const App = () => {
 	return(
