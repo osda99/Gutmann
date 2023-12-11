@@ -124,7 +124,7 @@ const PaginaInicio = () => {
 								</div>
 							);
 						})
-					}
+					}	
 				</div>
 			</div>
 
