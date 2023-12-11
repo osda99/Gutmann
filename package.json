@@ -25,7 +25,6 @@
     "server": "nodemon server.js",
     "node-server": "node server.js",
     "client": "cd client && npm run start",
-    "build": "npm run build",
     "server-install-dependencies": "npm install",
     "client-install-dependencies": "cd client && npm install",
     "install-all-dependencies": "concurrently \"npm run server-install-dependencies\" \"npm run client-install-dependencies\"",
